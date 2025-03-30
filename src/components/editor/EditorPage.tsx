@@ -40,7 +40,7 @@ const initialConfig = {
   }
 }
 
-export const EditorPage: React.FC = () => {
+const EditorPage: React.FC = () => {
   const {
     backgroundType,
     backgroundColor,
@@ -205,3 +205,5 @@ export const EditorPage: React.FC = () => {
     </div>
   )
 }
+
+export default EditorPage

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useEditorStore } from './store/editorStore';
 import { SimpleEditor } from './components/simple/SimpleEditor';
-import { EditorPage } from './components/editor/EditorPage';
+import EditorPage from './components/editor/EditorPage';
 
 function App() {
   const { isSimpleMode } = useEditorStore();

@@ -37,6 +37,8 @@
     "@lexical/table": "^0.13.1",
     "@lexical/utils": "^0.13.1",
     "chroma-js": "^2.4.2",
+    "emoji-mart": "^5.6.0",
+    "emoji-picker-react": "^4.12.2",
     "geopattern": "^1.2.3",
     "lexical": "^0.13.1",
     "lucide-react": "^0.344.0",
